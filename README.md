@@ -1,4 +1,4 @@
-# Riffly---Music-Player
+# Riffly - Music Player
 
 **Minimalist Playlist Player**
 
